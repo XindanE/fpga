@@ -1,0 +1,2 @@
+//This is the data in the Layer5_Neurons_CPU
+double Layer5_Neurons_CPU[] = { 1.482886, 1.627197, 1.426528, 0.866279, -0.244174, 1.638986, 1.477359, 1.408707, 1.500719, 0.473016};
